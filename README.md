@@ -85,3 +85,10 @@ This template comes with [Tailwind CSS](https://tailwindcss.com/) already config
 ---
 
 Built with ❤️ using React Router.
+
+
+## Key Learned
+
+- **Flash of unstyled text (FOUT):** The first problem solved was preventing a flash of unstyled text during initial page load, ensuring a smoother user experience.
+- Learned how to configure TailwindCSS for immediate styling.
+- Improved understanding of React Router's data loading patterns.
