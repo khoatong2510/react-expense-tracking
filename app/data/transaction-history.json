@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "e87333be-243f-4414-b747-fe21563207ab",
+    "description": "Landlord - Housing",
+    "category": "Housing",
+    "amount": 1388.32,
+    "createdAt": "2025-04-01T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Landlord"
+  },
+  {
+    "id": "5636e18d-f9a9-49fc-8674-80daae47b63c",
+    "description": "McDonald's - Food",
+    "category": "Food",
+    "amount": 1546.44,
+    "createdAt": "2025-04-30T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "McDonald's"
+  },
+  {
+    "id": "5cab2e4f-8602-4dbd-8f1b-b3138103f1ca",
+    "description": "Strata - Housing",
+    "category": "Housing",
+    "amount": 1646.28,
+    "createdAt": "2025-04-21T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Strata"
+  },
+  {
+    "id": "80cd62c7-7393-45ea-a38d-509c03b9e843",
+    "description": "Spotify - Entertainment",
+    "category": "Entertainment",
+    "amount": 309.12,
+    "createdAt": "2025-04-13T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Spotify"
+  },
+  {
+    "id": "20e941ea-8ca8-4366-a057-6ab8644cdd02",
+    "description": "Khoa - Income",
+    "category": "Income",
+    "amount": 1631.67,
+    "createdAt": "2025-04-19T00:00:00Z",
+    "type": "income",
+    "partyFrom": "Freelance Client",
+    "partyTo": "Khoa"
+  },
+  {
+    "id": "d8e055c5-87e0-4544-b130-2575bf5606a8",
+    "description": "KFC - Food",
+    "category": "Food",
+    "amount": 739.46,
+    "createdAt": "2025-04-24T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "KFC"
+  },
+  {
+    "id": "13ee9012-ef36-4321-98b9-75fb16ea1bdb",
+    "description": "Netflix - Entertainment",
+    "category": "Entertainment",
+    "amount": 862.11,
+    "createdAt": "2025-04-24T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Netflix"
+  },
+  {
+    "id": "b3a681ff-3ac9-4a17-bf59-e54f665b3e4b",
+    "description": "Khoa - Income",
+    "category": "Income",
+    "amount": 3801.4,
+    "createdAt": "2025-04-05T00:00:00Z",
+    "type": "income",
+    "partyFrom": "Freelance Client",
+    "partyTo": "Khoa"
+  },
+  {
+    "id": "e891c24f-57bd-4c61-946a-2aa8fe4127e2",
+    "description": "Shell - Transport",
+    "category": "Transport",
+    "amount": 1213.95,
+    "createdAt": "2025-04-07T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Shell"
+  },
+  {
+    "id": "5ccfc9cc-6798-4a9e-b9c5-ce932613af4c",
+    "description": "TerryWhite - Health",
+    "category": "Health",
+    "amount": 1274.64,
+    "createdAt": "2025-04-16T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "TerryWhite"
+  },
+  {
+    "id": "d1bb73ae-e1a0-4e32-8a77-cdc88a974fdc",
+    "description": "Khoa - Income",
+    "category": "Income",
+    "amount": 3312.84,
+    "createdAt": "2025-04-12T00:00:00Z",
+    "type": "income",
+    "partyFrom": "Freelance Client",
+    "partyTo": "Khoa"
+  },
+  {
+    "id": "cc9fba78-68e8-43aa-96de-894c635876ab",
+    "description": "Khoa - Income",
+    "category": "Income",
+    "amount": 2830.04,
+    "createdAt": "2025-04-15T00:00:00Z",
+    "type": "income",
+    "partyFrom": "TechCorp Ltd",
+    "partyTo": "Khoa"
+  },
+  {
+    "id": "2706fb49-fe08-47d7-9d04-80498ec6649f",
+    "description": "Amazon - Technology",
+    "category": "Technology",
+    "amount": 97.38,
+    "createdAt": "2025-04-27T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Amazon"
+  },
+  {
+    "id": "54afbc39-ae8d-407d-abc9-cfe65ed1a1da",
+    "description": "Chemist Warehouse - Health",
+    "category": "Health",
+    "amount": 1936.02,
+    "createdAt": "2025-04-19T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Chemist Warehouse"
+  },
+  {
+    "id": "d816e72e-b85b-4dfb-8034-698d62bae068",
+    "description": "Khoa - Income",
+    "category": "Income",
+    "amount": 3403.99,
+    "createdAt": "2025-04-16T00:00:00Z",
+    "type": "income",
+    "partyFrom": "Freelance Client",
+    "partyTo": "Khoa"
+  },
+  {
+    "id": "e68603fc-1b7f-4f6d-b681-89c672580081",
+    "description": "Amazon - Technology",
+    "category": "Technology",
+    "amount": 503.53,
+    "createdAt": "2025-04-06T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Amazon"
+  },
+  {
+    "id": "4d96cac8-3918-47f3-bd85-3259d194adb9",
+    "description": "Khoa - Income",
+    "category": "Income",
+    "amount": 2997.29,
+    "createdAt": "2025-04-29T00:00:00Z",
+    "type": "income",
+    "partyFrom": "TechCorp Ltd",
+    "partyTo": "Khoa"
+  },
+  {
+    "id": "72f856ec-8e6a-4d5f-96ac-09fdbd59f852",
+    "description": "Subway - Food",
+    "category": "Food",
+    "amount": 1988.62,
+    "createdAt": "2025-04-01T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Subway"
+  },
+  {
+    "id": "3df2c9ff-c856-46e4-9ef6-4dd19e04f668",
+    "description": "McDonald's - Food",
+    "category": "Food",
+    "amount": 573.44,
+    "createdAt": "2025-04-09T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "McDonald's"
+  },
+  {
+    "id": "a04b63c1-67dc-4584-b23e-4d6cdf10cf10",
+    "description": "Chemist Warehouse - Health",
+    "category": "Health",
+    "amount": 1977.56,
+    "createdAt": "2025-04-24T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Chemist Warehouse"
+  },
+  {
+    "id": "37c24400-f165-40ec-8683-4a9e84bd531a",
+    "description": "Khoa - Income",
+    "category": "Income",
+    "amount": 2592.8,
+    "createdAt": "2025-04-03T00:00:00Z",
+    "type": "income",
+    "partyFrom": "Freelance Client",
+    "partyTo": "Khoa"
+  },
+  {
+    "id": "7f3f019e-349f-4618-8fd6-4f277a9e14a5",
+    "description": "Coles - Groceries",
+    "category": "Groceries",
+    "amount": 1785.67,
+    "createdAt": "2025-04-29T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Coles"
+  },
+  {
+    "id": "ce2c130f-13e0-4ade-a5e0-27782ffe5778",
+    "description": "Khoa - Income",
+    "category": "Income",
+    "amount": 2500.25,
+    "createdAt": "2025-04-06T00:00:00Z",
+    "type": "income",
+    "partyFrom": "Gov Payment",
+    "partyTo": "Khoa"
+  },
+  {
+    "id": "2736cb54-bb7c-41b2-bbaa-d53ce2fe9514",
+    "description": "YouTube Premium - Entertainment",
+    "category": "Entertainment",
+    "amount": 947.83,
+    "createdAt": "2025-04-01T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "YouTube Premium"
+  },
+  {
+    "id": "70647f9b-1e94-41bf-902a-9d67e5a0af23",
+    "description": "Woolworths - Groceries",
+    "category": "Groceries",
+    "amount": 1819.21,
+    "createdAt": "2025-04-20T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Woolworths"
+  },
+  {
+    "id": "e19c4b95-42a1-468c-90b4-051511759460",
+    "description": "Netflix - Entertainment",
+    "category": "Entertainment",
+    "amount": 1230.55,
+    "createdAt": "2025-04-17T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Netflix"
+  },
+  {
+    "id": "fc903af5-5ab5-4b30-b7d0-ba5402ea4470",
+    "description": "JB Hi-Fi - Shopping",
+    "category": "Shopping",
+    "amount": 372.87,
+    "createdAt": "2025-04-19T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "JB Hi-Fi"
+  },
+  {
+    "id": "800f0436-b927-498b-b0b1-b35bc23753bc",
+    "description": "Myer - Shopping",
+    "category": "Shopping",
+    "amount": 1836.46,
+    "createdAt": "2025-04-09T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Myer"
+  },
+  {
+    "id": "ac1c34aa-4aee-42e0-a882-f391e900774c",
+    "description": "Coles - Groceries",
+    "category": "Groceries",
+    "amount": 314.5,
+    "createdAt": "2025-04-02T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Coles"
+  },
+  {
+    "id": "bc5d5dad-70d9-4c19-8a81-34de348efce2",
+    "description": "Khoa - Income",
+    "category": "Income",
+    "amount": 3356.87,
+    "createdAt": "2025-04-22T00:00:00Z",
+    "type": "income",
+    "partyFrom": "Freelance Client",
+    "partyTo": "Khoa"
+  },
+  {
+    "id": "46eafd9e-88ea-43ad-a91e-519cd2d07497",
+    "description": "Amazon - Technology",
+    "category": "Technology",
+    "amount": 1445.11,
+    "createdAt": "2025-04-06T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Amazon"
+  },
+  {
+    "id": "894f9412-4c24-43c9-80f1-79da174284fb",
+    "description": "Uber - Transport",
+    "category": "Transport",
+    "amount": 888.34,
+    "createdAt": "2025-04-18T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Uber"
+  },
+  {
+    "id": "f0e51d3d-10f2-4306-aa73-072655ca89f8",
+    "description": "Amazon - Technology",
+    "category": "Technology",
+    "amount": 472.67,
+    "createdAt": "2025-04-11T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Amazon"
+  },
+  {
+    "id": "ecabba02-0bd0-4819-903c-eef8e853d806",
+    "description": "Khoa - Income",
+    "category": "Income",
+    "amount": 1852.6,
+    "createdAt": "2025-04-19T00:00:00Z",
+    "type": "income",
+    "partyFrom": "Gov Payment",
+    "partyTo": "Khoa"
+  },
+  {
+    "id": "137ecc5e-c2bb-42ec-8e12-0b4aaeba7c8a",
+    "description": "Pharmacy4Less - Health",
+    "category": "Health",
+    "amount": 661.64,
+    "createdAt": "2025-04-19T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Pharmacy4Less"
+  },
+  {
+    "id": "677b7378-aedb-4bd0-b141-f7e6c1bfd859",
+    "description": "Myer - Shopping",
+    "category": "Shopping",
+    "amount": 1176.22,
+    "createdAt": "2025-04-22T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Myer"
+  },
+  {
+    "id": "76b5ff1d-7c26-4a18-8e00-8416aa4dacbc",
+    "description": "eBay - Shopping",
+    "category": "Shopping",
+    "amount": 357.74,
+    "createdAt": "2025-04-28T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "eBay"
+  },
+  {
+    "id": "9faacf55-d4b8-42fc-b219-e7857b38c06f",
+    "description": "Amazon - Technology",
+    "category": "Technology",
+    "amount": 1158.71,
+    "createdAt": "2025-04-21T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Amazon"
+  },
+  {
+    "id": "13c2a5c4-8764-47ef-8750-bbd4dcad5d59",
+    "description": "Google Play - Technology",
+    "category": "Technology",
+    "amount": 1876.26,
+    "createdAt": "2025-04-02T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Google Play"
+  },
+  {
+    "id": "961de1ad-c5b1-4a9c-b142-aec7cc722b27",
+    "description": "McDonald's - Food",
+    "category": "Food",
+    "amount": 1223.41,
+    "createdAt": "2025-04-01T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "McDonald's"
+  },
+  {
+    "id": "d0c7b9f7-f68d-4809-990a-595c9a0a07e8",
+    "description": "Subway - Food",
+    "category": "Food",
+    "amount": 368.94,
+    "createdAt": "2025-04-08T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Subway"
+  },
+  {
+    "id": "797d542d-c0f7-4288-a30d-55a9558d8365",
+    "description": "ALDI - Groceries",
+    "category": "Groceries",
+    "amount": 1431.26,
+    "createdAt": "2025-04-04T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "ALDI"
+  },
+  {
+    "id": "0ef38a30-0f58-4899-9de2-5e679679f35d",
+    "description": "ALDI - Groceries",
+    "category": "Groceries",
+    "amount": 560.71,
+    "createdAt": "2025-04-25T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "ALDI"
+  },
+  {
+    "id": "00c9425d-5213-40d7-b63c-708c59f15082",
+    "description": "Strata - Housing",
+    "category": "Housing",
+    "amount": 1348.56,
+    "createdAt": "2025-04-24T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Strata"
+  },
+  {
+    "id": "1d8fa914-03b0-4bfd-9905-9ceb354cafb9",
+    "description": "TerryWhite - Health",
+    "category": "Health",
+    "amount": 1108.27,
+    "createdAt": "2025-04-20T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "TerryWhite"
+  },
+  {
+    "id": "59b08c83-c6b7-48e4-bbf9-5751e71a7132",
+    "description": "Apple - Technology",
+    "category": "Technology",
+    "amount": 488.57,
+    "createdAt": "2025-04-28T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Apple"
+  },
+  {
+    "id": "6520d97d-10e4-47ec-8dd2-9e51acab02da",
+    "description": "Khoa - Income",
+    "category": "Income",
+    "amount": 3422.68,
+    "createdAt": "2025-04-22T00:00:00Z",
+    "type": "income",
+    "partyFrom": "TechCorp Ltd",
+    "partyTo": "Khoa"
+  },
+  {
+    "id": "2be3092c-3e31-423c-ab29-fcd250f50834",
+    "description": "Google Play - Technology",
+    "category": "Technology",
+    "amount": 1932.07,
+    "createdAt": "2025-04-01T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Google Play"
+  },
+  {
+    "id": "ba6e1e78-c5b5-4087-8605-ae6e02d7cb3a",
+    "description": "McDonald's - Food",
+    "category": "Food",
+    "amount": 380.51,
+    "createdAt": "2025-04-23T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "McDonald's"
+  },
+  {
+    "id": "c73b76d5-c33f-4cd6-80b2-9b71e32a4a81",
+    "description": "Myer - Shopping",
+    "category": "Shopping",
+    "amount": 779.42,
+    "createdAt": "2025-04-04T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Myer"
+  },
+  {
+    "id": "c5c8bfca-281d-4f80-89fa-a9da02e940c5",
+    "description": "McDonald's - Food",
+    "category": "Food",
+    "amount": 313.7,
+    "createdAt": "2025-05-06T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "McDonald's"
+  },
+  {
+    "id": "8438969d-101f-48ab-b6d0-4530386d4c96",
+    "description": "Landlord - Housing",
+    "category": "Housing",
+    "amount": 218.82,
+    "createdAt": "2025-05-19T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Landlord"
+  },
+  {
+    "id": "6b1e91e1-2e28-4709-8f60-5771c4a7c2e6",
+    "description": "Shell - Transport",
+    "category": "Transport",
+    "amount": 1630.58,
+    "createdAt": "2025-05-25T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Shell"
+  },
+  {
+    "id": "6988ec21-15a2-44e9-ad04-d95a9acd63b3",
+    "description": "Pharmacy4Less - Health",
+    "category": "Health",
+    "amount": 375.88,
+    "createdAt": "2025-05-29T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Pharmacy4Less"
+  },
+  {
+    "id": "f38213bd-5398-498b-8404-b27f1898c049",
+    "description": "Khoa - Income",
+    "category": "Income",
+    "amount": 2578.72,
+    "createdAt": "2025-05-28T00:00:00Z",
+    "type": "income",
+    "partyFrom": "Freelance Client",
+    "partyTo": "Khoa"
+  },
+  {
+    "id": "57be4256-a34a-4f71-9c54-3368a5eed63d",
+    "description": "Uber - Transport",
+    "category": "Transport",
+    "amount": 1049.85,
+    "createdAt": "2025-05-26T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Uber"
+  },
+  {
+    "id": "cbcb21d7-ec05-4621-91ef-5155622c692b",
+    "description": "Amazon - Technology",
+    "category": "Technology",
+    "amount": 1737.93,
+    "createdAt": "2025-05-12T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Amazon"
+  },
+  {
+    "id": "f9d6d2c0-5141-4ebe-bb21-a58c43e72481",
+    "description": "Opal - Transport",
+    "category": "Transport",
+    "amount": 1999.94,
+    "createdAt": "2025-05-02T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Opal"
+  },
+  {
+    "id": "13d756ea-e1f0-4ec7-822c-245e904ceef1",
+    "description": "Strata - Housing",
+    "category": "Housing",
+    "amount": 1842.29,
+    "createdAt": "2025-05-07T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Strata"
+  },
+  {
+    "id": "9686693a-b12b-4d2c-8bf3-0173aa93f2a6",
+    "description": "Amazon - Technology",
+    "category": "Technology",
+    "amount": 1672.44,
+    "createdAt": "2025-05-12T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Amazon"
+  },
+  {
+    "id": "d2a13321-f425-4b8e-a26c-ccbcbdaf3497",
+    "description": "Subway - Food",
+    "category": "Food",
+    "amount": 1013.36,
+    "createdAt": "2025-05-27T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Subway"
+  },
+  {
+    "id": "e4a7304c-e3d5-4230-bb99-b04379865301",
+    "description": "McDonald's - Food",
+    "category": "Food",
+    "amount": 594.45,
+    "createdAt": "2025-05-01T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "McDonald's"
+  },
+  {
+    "id": "9004fe18-fe31-42f4-8161-a543d474ca88",
+    "description": "Myer - Shopping",
+    "category": "Shopping",
+    "amount": 1962.04,
+    "createdAt": "2025-05-28T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Myer"
+  },
+  {
+    "id": "ee3acac3-76e9-41f9-bc2d-cd1a08bded2e",
+    "description": "Strata - Housing",
+    "category": "Housing",
+    "amount": 563.83,
+    "createdAt": "2025-05-08T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Strata"
+  },
+  {
+    "id": "4f5f5255-290a-4ad3-bbdc-06b63a63905c",
+    "description": "Coles - Groceries",
+    "category": "Groceries",
+    "amount": 1736.48,
+    "createdAt": "2025-05-17T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Coles"
+  },
+  {
+    "id": "33d4db83-65f1-4a2e-9b90-ef58856a6b57",
+    "description": "Subway - Food",
+    "category": "Food",
+    "amount": 465.29,
+    "createdAt": "2025-05-26T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Subway"
+  },
+  {
+    "id": "b5a5c3cf-a1ed-4d27-bb1e-402f955d08e8",
+    "description": "TerryWhite - Health",
+    "category": "Health",
+    "amount": 1521.73,
+    "createdAt": "2025-05-27T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "TerryWhite"
+  },
+  {
+    "id": "9b3cb4ba-fcce-4542-969f-ab047dfea2f8",
+    "description": "eBay - Shopping",
+    "category": "Shopping",
+    "amount": 577.77,
+    "createdAt": "2025-05-26T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "eBay"
+  },
+  {
+    "id": "602d5552-475a-4e48-9828-e587d57e4bac",
+    "description": "KFC - Food",
+    "category": "Food",
+    "amount": 68.33,
+    "createdAt": "2025-05-23T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "KFC"
+  },
+  {
+    "id": "d9999aa5-57a1-4078-b131-ee68ab21ce9d",
+    "description": "Strata - Housing",
+    "category": "Housing",
+    "amount": 220.24,
+    "createdAt": "2025-05-12T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Strata"
+  },
+  {
+    "id": "197c64ec-f2c7-41ed-a489-96cab844274b",
+    "description": "Google Play - Technology",
+    "category": "Technology",
+    "amount": 251.89,
+    "createdAt": "2025-05-18T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Google Play"
+  },
+  {
+    "id": "fc4309c7-7dd7-4544-b05c-2e0cc167145b",
+    "description": "ALDI - Groceries",
+    "category": "Groceries",
+    "amount": 390.26,
+    "createdAt": "2025-05-13T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "ALDI"
+  },
+  {
+    "id": "eb4925a1-4272-47e8-912b-3b174ba4b8fe",
+    "description": "McDonald's - Food",
+    "category": "Food",
+    "amount": 1838.24,
+    "createdAt": "2025-05-19T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "McDonald's"
+  },
+  {
+    "id": "825d97f9-4286-45f4-af0f-845b1d2829dd",
+    "description": "Strata - Housing",
+    "category": "Housing",
+    "amount": 1825.73,
+    "createdAt": "2025-05-21T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Strata"
+  },
+  {
+    "id": "6678d9ec-b3fb-40ff-aad6-128add1e1d73",
+    "description": "Netflix - Entertainment",
+    "category": "Entertainment",
+    "amount": 68.5,
+    "createdAt": "2025-05-21T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Netflix"
+  },
+  {
+    "id": "1aba3abc-5c3f-4b42-9151-b059523ed714",
+    "description": "Strata - Housing",
+    "category": "Housing",
+    "amount": 1130.25,
+    "createdAt": "2025-05-22T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Strata"
+  },
+  {
+    "id": "52eca2fd-c1a7-4069-a48f-1f2da30bd86a",
+    "description": "Coles - Groceries",
+    "category": "Groceries",
+    "amount": 904.46,
+    "createdAt": "2025-05-06T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Coles"
+  },
+  {
+    "id": "e34547e8-f3a6-4aaa-9ddd-4ccfab2214eb",
+    "description": "ALDI - Groceries",
+    "category": "Groceries",
+    "amount": 1760.81,
+    "createdAt": "2025-05-19T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "ALDI"
+  },
+  {
+    "id": "0d874d95-e1c1-4305-a514-ab98389981cd",
+    "description": "Amazon - Technology",
+    "category": "Technology",
+    "amount": 1899.42,
+    "createdAt": "2025-05-30T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Amazon"
+  },
+  {
+    "id": "a0c11709-1637-45f4-b0ee-ebbf41f9ccea",
+    "description": "Landlord - Housing",
+    "category": "Housing",
+    "amount": 970.08,
+    "createdAt": "2025-05-28T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Landlord"
+  },
+  {
+    "id": "7c5e00e5-00ac-452b-b36e-77919886a9cc",
+    "description": "Subway - Food",
+    "category": "Food",
+    "amount": 1951.56,
+    "createdAt": "2025-05-08T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Subway"
+  },
+  {
+    "id": "7e13372c-3ec4-4e04-83c7-d81601c928af",
+    "description": "TerryWhite - Health",
+    "category": "Health",
+    "amount": 1259.96,
+    "createdAt": "2025-05-15T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "TerryWhite"
+  },
+  {
+    "id": "9c6f73b0-8e24-4e99-932f-c651086809f8",
+    "description": "Chemist Warehouse - Health",
+    "category": "Health",
+    "amount": 1635.12,
+    "createdAt": "2025-05-24T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Chemist Warehouse"
+  },
+  {
+    "id": "555ad5ea-c2c6-437c-9bd4-dcde307e369d",
+    "description": "Khoa - Income",
+    "category": "Income",
+    "amount": 2755.38,
+    "createdAt": "2025-05-28T00:00:00Z",
+    "type": "income",
+    "partyFrom": "Gov Payment",
+    "partyTo": "Khoa"
+  },
+  {
+    "id": "07869309-b043-493d-b07c-61c502697b98",
+    "description": "JB Hi-Fi - Shopping",
+    "category": "Shopping",
+    "amount": 1889.7,
+    "createdAt": "2025-05-08T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "JB Hi-Fi"
+  },
+  {
+    "id": "669ab62c-ed4e-4936-9f12-207985a97618",
+    "description": "TerryWhite - Health",
+    "category": "Health",
+    "amount": 497.11,
+    "createdAt": "2025-05-22T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "TerryWhite"
+  },
+  {
+    "id": "f8f387ee-c44e-4c86-b100-1a6f6a52e259",
+    "description": "Amazon - Technology",
+    "category": "Technology",
+    "amount": 1652.82,
+    "createdAt": "2025-05-16T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Amazon"
+  },
+  {
+    "id": "b87d9368-96b1-4f73-bb4c-ebe0b214e40c",
+    "description": "Spotify - Entertainment",
+    "category": "Entertainment",
+    "amount": 343.09,
+    "createdAt": "2025-05-01T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Spotify"
+  },
+  {
+    "id": "460ac4cb-2bda-4704-91ed-85d083ec7328",
+    "description": "Netflix - Entertainment",
+    "category": "Entertainment",
+    "amount": 1871.01,
+    "createdAt": "2025-05-10T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Netflix"
+  },
+  {
+    "id": "352e078f-a28f-4d73-9dc7-d5c37a54c7ed",
+    "description": "ALDI - Groceries",
+    "category": "Groceries",
+    "amount": 648.85,
+    "createdAt": "2025-05-06T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "ALDI"
+  },
+  {
+    "id": "0f77cefd-4611-4a37-8614-13609d72e2e9",
+    "description": "Landlord - Housing",
+    "category": "Housing",
+    "amount": 311.97,
+    "createdAt": "2025-05-28T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Landlord"
+  },
+  {
+    "id": "f7322ab0-bc64-4e6d-a296-c750f2eb30fc",
+    "description": "Uber - Transport",
+    "category": "Transport",
+    "amount": 16.41,
+    "createdAt": "2025-05-12T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Uber"
+  },
+  {
+    "id": "27a38939-3c30-4220-a501-186a0e43cfa6",
+    "description": "Pharmacy4Less - Health",
+    "category": "Health",
+    "amount": 82.7,
+    "createdAt": "2025-05-13T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Pharmacy4Less"
+  },
+  {
+    "id": "5c42fbcd-fee7-4497-844a-efe6fc0404ad",
+    "description": "Coles - Groceries",
+    "category": "Groceries",
+    "amount": 144.02,
+    "createdAt": "2025-05-30T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Coles"
+  },
+  {
+    "id": "95ccea63-c67c-40c2-82d6-2a5d71ca3eda",
+    "description": "Strata - Housing",
+    "category": "Housing",
+    "amount": 765.77,
+    "createdAt": "2025-05-22T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Strata"
+  },
+  {
+    "id": "bfb51894-4871-4c52-9ecc-c1b766f5ca9a",
+    "description": "Landlord - Housing",
+    "category": "Housing",
+    "amount": 844.49,
+    "createdAt": "2025-05-12T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Landlord"
+  },
+  {
+    "id": "e040d152-a20a-48ba-ba3c-0c44d5a06364",
+    "description": "Khoa - Income",
+    "category": "Income",
+    "amount": 3385.28,
+    "createdAt": "2025-05-22T00:00:00Z",
+    "type": "income",
+    "partyFrom": "Gov Payment",
+    "partyTo": "Khoa"
+  },
+  {
+    "id": "4513d62a-8f89-4f05-a284-857dbbdcc19c",
+    "description": "Khoa - Income",
+    "category": "Income",
+    "amount": 3107.36,
+    "createdAt": "2025-05-31T00:00:00Z",
+    "type": "income",
+    "partyFrom": "Freelance Client",
+    "partyTo": "Khoa"
+  },
+  {
+    "id": "942a7749-2d8a-4a95-b009-e202048eb6d1",
+    "description": "Netflix - Entertainment",
+    "category": "Entertainment",
+    "amount": 809.26,
+    "createdAt": "2025-05-13T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Netflix"
+  },
+  {
+    "id": "ed659fee-4c59-4d57-a478-cf98a7cf9674",
+    "description": "Netflix - Entertainment",
+    "category": "Entertainment",
+    "amount": 811.87,
+    "createdAt": "2025-05-04T00:00:00Z",
+    "type": "expense",
+    "partyFrom": "Khoa",
+    "partyTo": "Netflix"
+  }
+]
